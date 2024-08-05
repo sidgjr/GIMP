@@ -4,6 +4,10 @@
 
 ↪ 
 
+↪ Recursos.
+
+    ↪ https://www.textstudio.com/logo/minecraft-3d-text-41
+
 ↪ Fontes.
 
     ↪ Gimp Tutorial: How to outline an image in gimp
